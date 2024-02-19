@@ -121,10 +121,10 @@ Depois que nosso workspace estiver pronto temos que entrar no ML studio para cri
 1- Na guia **Visão geral/Descrição geral** do trabalho automatizado de aprendizado de máquina, observe o melhor resumo do modelo.
 
 (Sem zoom/ visão completa)
-![alt text](image-1.png)
+![alt text](/imgs/image-1.png)
 
 (Visão padrão)
-![alt text](image-3.png)
+![alt text](/imgs/image-3.png)
 
 
 2 - Selecione o texto em **Nome do algoritmo** do melhor modelo para visualizar seus detalhes.
@@ -184,4 +184,4 @@ Para o teste, utilizei o json abaixo:
 
 A previsão gerada foi: 360.00
 
-![alt text](image-2.png)
+![alt text](/imgs/image-2.png)
