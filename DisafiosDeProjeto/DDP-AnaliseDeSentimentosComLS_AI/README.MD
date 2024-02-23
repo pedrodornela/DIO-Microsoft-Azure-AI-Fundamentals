@@ -28,6 +28,7 @@ Trabalhando com Machine Learning - Análise de Sentimentos
 ### Trouxe também um exemplo das mesmas sentenças sendo usadas para interrogar e exclamar, e mostrar que a interpretação da IA para sentenças *Interrogativas* se inclina para um sentimento *NEUTRO*:
 
 - **Exemplo 1:**
+
     - **Exemplo interrogativo - *Neutro***:
     ![Didn't you have lunch today?](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/Didnt-you-have-lunch-today.png)
 
@@ -36,6 +37,7 @@ Trabalhando com Machine Learning - Análise de Sentimentos
 ---
 
 - **Exemplo 2:**
+
     - **Exemplo interrogativo - *Neutro***:
     ![Did you need help](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/Did-you-need-help.png)
 
@@ -46,13 +48,13 @@ Trabalhando com Machine Learning - Análise de Sentimentos
 
 ### Demais exemplos não *Neutros* e não *Interrogativos* : 
 - **Exemplo 1:**
-    ![We suffer more in imagination than in reality](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/We-suffer-more-in-imagination-than-in-reality.png)
-    ![We suffer more in imagination than in reality](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/We-suffer-more-in-imagination-than-in-reality-2.png)
+    - ![We suffer more in imagination than in reality](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/We-suffer-more-in-imagination-than-in-reality.png)
+    - ![We suffer more in imagination than in reality](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/We-suffer-more-in-imagination-than-in-reality-2.png)
 
 ---
 - **Exemplo 2:**
-    ![The lie never lives long enough to grow old](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/The-lie-never-lives-long-enough-to-grow-old.png)
-    ![The lie never lives long enough to grow old](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/The-lie-never-lives-long-enough-to-grow-old-2.png)
+    - ![The lie never lives long enough to grow old](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/The-lie-never-lives-long-enough-to-grow-old.png)
+    - ![The lie never lives long enough to grow old](/DisafiosDeProjeto/DDP-AnaliseDeSentimentosComLS_AI/imgs/The-lie-never-lives-long-enough-to-grow-old-2.png)
 
 
 
