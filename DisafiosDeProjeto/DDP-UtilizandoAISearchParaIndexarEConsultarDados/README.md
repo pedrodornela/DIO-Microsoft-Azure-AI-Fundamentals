@@ -29,6 +29,6 @@ Trabalhando com Machine Learning -  Utilizando AI Search para Indexação e Cons
 
 - ## Insights
 
-     - O estudo realizado na plataforma Azure AI Search  propoem uma análise da realização de uma pesquisa para Indexação e Consulta de Dados. 
+     - O estudo realizado na plataforma Azure AI Search  propõem uma análise da realização de uma pesquisa para Indexação e Consulta de Dados. 
      
      - O uso da mesma mostrou que a utilização de IA's tanto para insights, como para scannear documentos e importa-los para o meio digital, como também para minerar o conhecimento com uma análise específica e detalhada ee documentos, apresenta tamanha versatilidade, eficácia e automatização.
