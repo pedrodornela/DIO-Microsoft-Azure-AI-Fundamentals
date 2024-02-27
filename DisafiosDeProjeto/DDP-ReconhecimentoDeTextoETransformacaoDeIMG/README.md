@@ -13,8 +13,8 @@ Trabalhando com Machine Learning -Reconhecimento de Texto e Transformação de I
 - Um dos exemplos utilizados por mim foi uma imagem de uma página aleatória de um livro, e neste mesmo exemplo também foi possível perceber que não apenas o texto do livro como também o texto do teclado ao fundo foi capturado pela IA. 
 
 
-![foto-pagina-livro-e-fundo](/DisafiosDeProjeto/DP-ReconhecimentoFacialETransformacaoDeIMG/inputs/foto-pagina-livro-e-fundo.jpeg)
+![foto-pagina-livro-e-fundo](/DisafiosDeProjeto/DDP-ReconhecimentoDeTextoETransformacaoDeIMG/inputs/foto-pagina-livro-e-fundo.jpeg)
 
-![foto-pagina-livro-e-fundo-analise](/DisafiosDeProjeto/DP-ReconhecimentoFacialETransformacaoDeIMG/outputs/foto-pagina-livro-e-fundo-analise.png)
+![foto-pagina-livro-e-fundo-analise](/DisafiosDeProjeto/DDP-ReconhecimentoDeTextoETransformacaoDeIMG/outputs/foto-pagina-livro-e-fundo-analise.png)
 
     Obs: Este e os demais exemplos se econtram nas pastas de Inputs e Outputs, com seus respectivos valores de entrada e saída(tanto o print analisado pela ferramenta, como o texto extraído).
