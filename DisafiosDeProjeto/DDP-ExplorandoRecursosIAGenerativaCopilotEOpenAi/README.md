@@ -77,7 +77,8 @@ Observe como você não precisou especificar o que é “aquilo”, como o Copil
         Me traga 10 valores da sequência de fibonacci.
 
 - Output:
-![Me traga 10 valores da sequência de fibonacci](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/fibonacci.png)
+
+    ![Me traga 10 valores da sequência de fibonacci](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/fibonacci.png)
 
 ### Exemplo 2:
 
@@ -89,7 +90,8 @@ Observe como você não precisou especificar o que é “aquilo”, como o Copil
 
 
 - Outputs:
-![artista marcial](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/artista_marcial.png)
+
+    ![artista marcial](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/artista_marcial.png)
 
     ![artista marcial e robocop](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/artista_marcial_e_robocop.png)
 
@@ -104,6 +106,7 @@ Observe como você não precisou especificar o que é “aquilo”, como o Copil
 
 
 - Outputs:
-![objeto c#](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/objeto_c_sharp.png)
+
+    ![objeto c#](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/objeto_c_sharp.png)
 
     ![objeto Python](/DisafiosDeProjeto/DDP-ExplorandoRecursosIAGenerativaCopilotEOpenAi/output/objetoPython.png)
