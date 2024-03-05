@@ -1,0 +1,21 @@
+1 - What are 3 pros and cons of traveling in the winter? - Quais são os pros e contras de viajar no inverno?
+
+2 - Find me 3 more pros - Me traga mais 3 pros.
+
+3 - Where are 3 places I can go to find fewer crowds? - Quais são os lugares onde posso encontrar menos multidões.
+
+4 - Create an image of an elephant eating a hamburger. - Crie uma imagem de um elefante comendo um haburguer.
+
+5 - Use Python to create a list. - Use o Python para criar uma lista.
+
+6 - Translate that into C#. - Traduza aquilo para C#.
+
+7 - Me traga 10 valores da sequência de fibonacci.
+
+8 - Crie uma imagem de 1 artista marcial de kung fu do futuro, mantendo as características das roupas padrões.
+
+9 - Faça o artista marcial lutando com o robocop.
+
+10 - Crie um objeto em C#, que contenha os atributos Id, Nome, SobreNome, Idade, Sexo.
+
+11 - Traduza este código para Python.
